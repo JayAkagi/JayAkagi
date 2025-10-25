@@ -1,6 +1,6 @@
 ![Banner](./banner.png)
 # 🌴 About Me :
-BSc Computer Science Hons Graduate at Staffordshire University, I am deeply passionate about technology and eager to further my knowledge and skills in the field. My expertise lies in various software and web development languages and frameworks, with a particular focus on Java and C#. I am constantly seeking opportunities to learn and grow as a professional in the tech industry.</br>
+BSc Computer Science Hons Graduate at Staffordshire University, I am deeply passionate about technology and eager to further my knowledge and skills in the field. My expertise lies in various software and web development languages and frameworks, with a particular focus on <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="22" height="22" />Java and <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="22" height="22" />C#. I am constantly seeking opportunities to learn and grow as a professional in the tech industry.</br>
 </br>
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) </br>
@@ -11,4 +11,19 @@ BSc Computer Science Hons Graduate at Staffordshire University, I am deeply pass
 ![](https://nirzak-streak-stats.vercel.app/?user=JayAkagi&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayAkagi&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![Staffs](./staffs3.png)</br>
-<a href="https://www.linkedin.com/in/chris-bautista-429a62224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tayyabhaseeb" height="30" width="40" /></a>
+
+<!-- <h4>
+  <a href="https://www.linkedin.com/in/chris-bautista-429a62224/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         height="31" 
+         style="vertical-align: middle;" />
+  </a>
+</h4> -->
+<h4>
+  Connect With Me: </br>
+  <a href="https://www.linkedin.com/in/chris-bautista-429a62224/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" 
+         height="31" 
+         style="vertical-align: middle;" />
+  </a>
+</h4>
